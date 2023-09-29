@@ -1,6 +1,6 @@
 # PortKnight 
 A simple python based port scanner that scans a host(s) and prints out open ports on the host being scanned.
-This was done by using the python "socket" extension.
+
 
 #DISCLAIMER!!!
 
@@ -9,7 +9,7 @@ Please do not use this tool on networks that you don't have explicit permission 
 
 #INSTALLATION AND USAGE
 
-Clone the tool into your system using git. you can use the command (git clone https://www.github.com/KillyJay/portknight.git)
+Clone the tool into your system using git via the CLI. you can use the command (git clone https://www.github.com/KillyJay/portknight.git)
 
 Switch into the created directory (cd portknight)
 
