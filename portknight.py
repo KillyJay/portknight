@@ -3,6 +3,15 @@
 import socket
 import termcolor
 
+ascii_art = '''
+    ____             __  __ __       _       __    __ 
+   / __ \____  _____/ /_/ //_/____  (_)___ _/ /_  / /_
+  / /_/ / __ \/ ___/ __/ ,<  / __ \/ / __ `/ __ \/ __/
+ / ____/ /_/ / /  / /_/ /| |/ / / / / /_/ / / / / /_  
+/_/    \____/_/   \__/_/ |_/_/ /_/_/\__, /_/ /_/\__/  
+                                   /____/             
+	Developed by: Killy Jay
+'''
 
 def scan(target, ports):
 	print('\n' + ' Starting Scan For ' + str(target))
