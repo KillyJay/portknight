@@ -13,6 +13,8 @@ ascii_art = '''
 	Developed by: Killy Jay
 '''
 
+print (ascii_art)
+
 def scan(target, ports):
 	print('\n' + ' Starting Scan For ' + str(target))
 	for port in range(1,ports):
