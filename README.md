@@ -1,4 +1,4 @@
-# kj-portscanner
+# PortKnight 
 A simple python based port scanner that scans a host(s) and prints out open ports on the host being scanned.
 This was done by using the python "socket" extension.
 
