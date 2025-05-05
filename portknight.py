@@ -10,7 +10,8 @@ ascii_art = '''
  / ____/ /_/ / /  / /_/ /| |/ / / / / /_/ / / / / /_  
 /_/    \____/_/   \__/_/ |_/_/ /_/_/\__, /_/ /_/\__/  
                                    /____/             
-	Developed by: Killy Jay
+	Developed by: Ayomide Kilajolu
+ 	https://github.com/KillyJay
 '''
 
 print (ascii_art)
